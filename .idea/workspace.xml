@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f3eae44f-1a3b-47b5-8253-fdfabfb27ea8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WydJH3kYeW8YBocoldpaXS2H8R" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RunManager" selected="Application.LeetCode70">
+    <configuration name="LeetCode20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode20" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeetCode38" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode38" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeetCode66" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode66" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeetCode67" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode67" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeetCode70" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode70" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LeetCode70" />
+        <item itemvalue="Application.LeetCode67" />
+        <item itemvalue="Application.LeetCode66" />
+        <item itemvalue="Application.LeetCode20" />
+        <item itemvalue="Application.LeetCode38" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f3eae44f-1a3b-47b5-8253-fdfabfb27ea8" name="Default Changelist" comment="" />
+      <created>1580125694641</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580125694641</updated>
+      <workItem from="1580125695975" duration="42000" />
+      <workItem from="1580127067794" duration="39000" />
+      <workItem from="1580299428865" duration="3157000" />
+      <workItem from="1580633149891" duration="14000" />
+      <workItem from="1580904895945" duration="4888000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="230" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1580299518570">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="488" y="230" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1280.680@0.0.1280.680" timestamp="1580299518570" />
+    <state x="222" y="0" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor" timestamp="1580299512085">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="222" y="0" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor/0.0.1280.680@0.0.1280.680" timestamp="1580299512085" />
+    <state x="422" y="95" key="FileChooserDialogImpl" timestamp="1580299509652">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="422" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1580299509652" />
+    <state width="1237" height="49" key="GridCell.Tab.0.bottom" timestamp="1580909816628">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="49" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1580909816628" />
+    <state width="1237" height="49" key="GridCell.Tab.0.center" timestamp="1580909816628">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="49" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1580909816628" />
+    <state width="1237" height="49" key="GridCell.Tab.0.left" timestamp="1580909816628">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="49" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1580909816628" />
+    <state width="1237" height="49" key="GridCell.Tab.0.right" timestamp="1580909816628">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="49" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1580909816628" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1580127102160">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1580127102160" />
+  </component>
+</project>

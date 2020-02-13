@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f3eae44f-1a3b-47b5-8253-fdfabfb27ea8" name="Default Changelist" comment="" />
+    <list default="true" id="f3eae44f-1a3b-47b5-8253-fdfabfb27ea8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode100.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode209.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode739.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode77.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/面试题47_礼物的最大价值.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetCode70.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/LeetCode70.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +24,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1WydJH3kYeW8YBocoldpaXS2H8R" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -22,27 +35,21 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.general" />
   </component>
-  <component name="RunManager" selected="Application.LeetCode70">
-    <configuration name="LeetCode20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode20" />
+  <component name="RunManager" selected="Application.LeetCode209">
+    <configuration name="面试题47_礼物的最大价值" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="面试题47_礼物的最大价值" />
       <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LeetCode38" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode38" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LeetCode66" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode66" />
+    <configuration name="LeetCode209" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode209" />
       <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -62,13 +69,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LeetCode739" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode739" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LeetCode209" />
+        <item itemvalue="Application.面试题47_礼物的最大价值" />
+        <item itemvalue="Application.LeetCode739" />
         <item itemvalue="Application.LeetCode70" />
         <item itemvalue="Application.LeetCode67" />
-        <item itemvalue="Application.LeetCode66" />
-        <item itemvalue="Application.LeetCode20" />
-        <item itemvalue="Application.LeetCode38" />
       </list>
     </recent_temporary>
   </component>
@@ -99,6 +113,8 @@
       <workItem from="1580299428865" duration="3157000" />
       <workItem from="1580633149891" duration="14000" />
       <workItem from="1580904895945" duration="4888000" />
+      <workItem from="1581422290018" duration="3394000" />
+      <workItem from="1581593786179" duration="5354000" />
     </task>
     <servers />
   </component>
@@ -106,6 +122,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="233" y="0" key="#Inspections" timestamp="1581594206655">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#Inspections/0.0.1280.680@0.0.1280.680" timestamp="1581594206655" />
     <state x="488" y="230" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1580299518570">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -118,25 +138,29 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="422" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1580299509652" />
-    <state width="1237" height="49" key="GridCell.Tab.0.bottom" timestamp="1580909816628">
+    <state width="1237" height="219" key="GridCell.Tab.0.bottom" timestamp="1581599594048">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="49" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1580909816628" />
-    <state width="1237" height="49" key="GridCell.Tab.0.center" timestamp="1580909816628">
+    <state width="1237" height="219" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1581599594048" />
+    <state width="1237" height="219" key="GridCell.Tab.0.center" timestamp="1581599594048">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="49" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1580909816628" />
-    <state width="1237" height="49" key="GridCell.Tab.0.left" timestamp="1580909816628">
+    <state width="1237" height="219" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1581599594048" />
+    <state width="1237" height="219" key="GridCell.Tab.0.left" timestamp="1581599594048">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="49" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1580909816628" />
-    <state width="1237" height="49" key="GridCell.Tab.0.right" timestamp="1580909816628">
+    <state width="1237" height="219" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1581599594048" />
+    <state width="1237" height="219" key="GridCell.Tab.0.right" timestamp="1581599594048">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="49" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1580909816628" />
+    <state width="1237" height="219" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1581599594048" />
     <state x="142" y="0" key="SettingsEditor" timestamp="1580127102160">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1580127102160" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1581595312552">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1581595312552" />
   </component>
 </project>

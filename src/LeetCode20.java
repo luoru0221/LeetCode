@@ -22,9 +22,4 @@ public class LeetCode20 {
         }
         return stack.isEmpty();
     }
-
-    public static void main(String[] args) {
-        LeetCode20 leetCode20 = new LeetCode20();
-        System.out.println(leetCode20.isValid("(]"));
-    }
 }

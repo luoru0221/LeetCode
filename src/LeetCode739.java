@@ -24,13 +24,4 @@ public class LeetCode739 {
         }
     }
 
-    public static void main(String[] args) {
-        LeetCode739 leetCode739 = new LeetCode739();
-        int[] T = {73, 74, 75, 71, 69, 72, 76, 73};
-        int[] ints = leetCode739.dailyTemperatures(T);
-        for (int anInt : ints) {
-            System.out.print(anInt+" ");
-        }
-        System.out.println();
-    }
 }

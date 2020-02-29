@@ -22,10 +22,4 @@ public class LeetCode66 {
             return ans;
         }
     }
-
-    public static void main(String[] args) {
-        LeetCode66 leetCode66 = new LeetCode66();
-        int[] ans = leetCode66.plusOne(new int[]{9, 9, 9});
-        System.out.println(Arrays.toString(ans));
-    }
 }

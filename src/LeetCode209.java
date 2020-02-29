@@ -26,9 +26,4 @@ public class LeetCode209 {
         return ans;
     }
 
-    public static void main(String[] args) {
-        LeetCode209 leetCode209 = new LeetCode209();
-        int ans = leetCode209.minSubArrayLen(7, new int[]{2, 3, 1, 2, 4, 3});
-        System.out.println(ans);
-    }
 }

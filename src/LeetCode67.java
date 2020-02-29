@@ -47,8 +47,4 @@ public class LeetCode67 {
         return (char)(ans+'0');
     }
 
-    public static void main(String[] args) {
-        LeetCode67 leetCode67 = new LeetCode67();
-        System.out.println(leetCode67.addBinary("11","1"));
-    }
 }

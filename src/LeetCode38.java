@@ -24,13 +24,4 @@ public class LeetCode38 {
         return ans[n];
     }
 
-    public static void main(String[] args) {
-        LeetCode38 leetCode38 = new LeetCode38();
-        System.out.println(leetCode38.countAndSay(1));
-        System.out.println(leetCode38.countAndSay(2));
-        System.out.println(leetCode38.countAndSay(3));
-        System.out.println(leetCode38.countAndSay(4));
-        System.out.println(leetCode38.countAndSay(5));
-    }
-
 }

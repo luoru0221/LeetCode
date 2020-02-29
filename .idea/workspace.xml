@@ -2,15 +2,44 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3eae44f-1a3b-47b5-8253-fdfabfb27ea8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode100.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode209.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode739.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode77.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/面试题47_礼物的最大价值.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode120.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode141.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode144.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode146.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode198.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode213.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode27.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode300.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode43.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode48.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode5181.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode5183.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode5197.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode55.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode59.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode73.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode896.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetCode20.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/LeetCode20.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetCode209.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/LeetCode209.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetCode38.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/LeetCode38.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetCode66.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/LeetCode66.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetCode67.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/LeetCode67.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetCode70.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/LeetCode70.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/LeetCode739.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/LeetCode739.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/面试题47_礼物的最大价值.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/面试题47_礼物的最大价值.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode20.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode209.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode209.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode38.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode38.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode66.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode66.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode67.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode67.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode70.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode70.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode739.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode739.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/面试题47_礼物的最大价值.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/面试题47_礼物的最大价值.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +49,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -38,11 +68,24 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../EclipseTest" />
     <property name="settings.editor.selected.configurable" value="preferences.general" />
   </component>
-  <component name="RunManager" selected="Application.LeetCode209">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\MyCodes\LeetCode\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.LeetCode48">
     <configuration name="面试题47_礼物的最大价值" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="面试题47_礼物的最大价值" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Generic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test.Generic" />
       <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -55,15 +98,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LeetCode67" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode67" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LeetCode70" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode70" />
+    <configuration name="LeetCode48" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode48" />
       <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -78,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LeetCode48" />
+        <item itemvalue="Application.Generic" />
         <item itemvalue="Application.LeetCode209" />
         <item itemvalue="Application.面试题47_礼物的最大价值" />
         <item itemvalue="Application.LeetCode739" />
-        <item itemvalue="Application.LeetCode70" />
-        <item itemvalue="Application.LeetCode67" />
       </list>
     </recent_temporary>
   </component>
@@ -114,7 +150,19 @@
       <workItem from="1580633149891" duration="14000" />
       <workItem from="1580904895945" duration="4888000" />
       <workItem from="1581422290018" duration="3394000" />
-      <workItem from="1581593786179" duration="5354000" />
+      <workItem from="1581593786179" duration="5843000" />
+      <workItem from="1581679569021" duration="28000" />
+      <workItem from="1581682755236" duration="79000" />
+      <workItem from="1581942144202" duration="3979000" />
+      <workItem from="1582194864472" duration="3607000" />
+      <workItem from="1582276933878" duration="1789000" />
+      <workItem from="1582289102253" duration="3791000" />
+      <workItem from="1582456870068" duration="60000" />
+      <workItem from="1582457006878" duration="3674000" />
+      <workItem from="1582860082620" duration="1744000" />
+      <workItem from="1582866157938" duration="7212000" />
+      <workItem from="1582887402292" duration="1901000" />
+      <workItem from="1582980207227" duration="3933000" />
     </task>
     <servers />
   </component>
@@ -122,10 +170,18 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="233" y="0" key="#Inspections" timestamp="1581594206655">
+    <state x="233" y="0" key="#Inspections" timestamp="1582980611121">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="0" key="#Inspections/0.0.1280.680@0.0.1280.680" timestamp="1581594206655" />
+    <state x="233" y="0" key="#Inspections/0.0.1280.680@0.0.1280.680" timestamp="1582980611121" />
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582866904444">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1582866904444" />
+    <state x="446" y="25" key="#com.intellij.ide.util.MemberChooser" timestamp="1582980666255">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="25" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1582980666255" />
     <state x="488" y="230" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1580299518570">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -134,26 +190,26 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="222" y="0" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor/0.0.1280.680@0.0.1280.680" timestamp="1580299512085" />
-    <state x="422" y="95" key="FileChooserDialogImpl" timestamp="1580299509652">
+    <state x="422" y="95" key="FileChooserDialogImpl" timestamp="1582866650564">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="422" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1580299509652" />
-    <state width="1237" height="219" key="GridCell.Tab.0.bottom" timestamp="1581599594048">
+    <state x="422" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1582866650564" />
+    <state width="1237" height="219" key="GridCell.Tab.0.bottom" timestamp="1582873573082">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="219" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1581599594048" />
-    <state width="1237" height="219" key="GridCell.Tab.0.center" timestamp="1581599594048">
+    <state width="1237" height="219" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1582873573082" />
+    <state width="1237" height="219" key="GridCell.Tab.0.center" timestamp="1582873573079">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="219" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1581599594048" />
-    <state width="1237" height="219" key="GridCell.Tab.0.left" timestamp="1581599594048">
+    <state width="1237" height="219" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1582873573079" />
+    <state width="1237" height="219" key="GridCell.Tab.0.left" timestamp="1582873573079">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="219" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1581599594048" />
-    <state width="1237" height="219" key="GridCell.Tab.0.right" timestamp="1581599594048">
+    <state width="1237" height="219" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1582873573079" />
+    <state width="1237" height="219" key="GridCell.Tab.0.right" timestamp="1582873573081">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="219" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1581599594048" />
+    <state width="1237" height="219" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1582873573081" />
     <state x="142" y="0" key="SettingsEditor" timestamp="1580127102160">
       <screen x="0" y="0" width="1280" height="680" />
     </state>

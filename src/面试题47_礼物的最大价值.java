@@ -18,10 +18,4 @@ public class 面试题47_礼物的最大价值 {
         return grid[lineLen - 1][rowLen - 1];
     }
 
-    public static void main(String[] args) {
-        int[][] param = {{1, 3, 1}, {1, 5, 1}, {4, 2, 1}};
-        面试题47_礼物的最大价值 test = new 面试题47_礼物的最大价值();
-        int value = test.maxValue(param);
-        System.out.println(value);
-    }
 }

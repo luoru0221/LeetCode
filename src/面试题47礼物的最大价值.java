@@ -1,4 +1,4 @@
-public class 面试题47_礼物的最大价值 {
+public class 面试题47礼物的最大价值 {
 
     public int maxValue(int[][] grid) {
         int lineLen = grid.length;

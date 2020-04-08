@@ -1,50 +1,39 @@
-import java.lang.reflect.Array;
-
 public class LeetCode67 {
 
     public String addBinary(String a, String b) {
 
         int maxLen = Math.max(a.length(), b.length());
-        char[] tmpA = a.toCharArray();
-        char[] tmpB = b.toCharArray();
-        char[] numA = new char[maxLen];
-        char[] numB = new char[maxLen];
+        int minLen = Math.min(a.length(), b.length());
+        boolean aBigger = a.length() > b.length();
+        StringBuilder sba = new StringBuilder(a);
+        StringBuilder sbb = new StringBuilder(b);
+        char[] tmpA = sba.reverse().toString().toCharArray();
+        char[] tmpB = sbb.reverse().toString().toCharArray();
+        int ansLen = maxLen;
 
-        for (int i = maxLen - 1; i >= 0; i--) {
-            if (tmpA.length - (maxLen - i) >= 0) {
-                numA[i] = tmpA[tmpA.length - (maxLen - i)];
-            } else {
-                numA[i] = 0;
-            }
-
-            if (tmpB.length - (maxLen - i) >= 0) {
-                numB[i] = tmpB[tmpB.length - (maxLen - i)];
-            } else {
-                numB[i] = 0;
-            }
+        char[] ans = new char[maxLen + 1];
+        int carry = 0;
+        int temp;
+        for (int i = 0; i < minLen; i++) {
+            temp = tmpA[i] + tmpB[i] - 2 * '0' + carry;
+            carry = temp / 2;
+            ans[i] = (char) (temp % 2 + '0');
         }
-
-        char[] ans = new char[maxLen+1];
-        Integer flag = 0;
-        for(int i=maxLen-1;i>=0;i--){
-            ans[i] = add(numA[i],numB[i],flag);
+        for (int i = minLen; i < maxLen; i++) {
+            temp = (aBigger ? tmpA[i] : tmpB[i]) - '0' + carry;
+            carry = temp / 2;
+            ans[i] = (char) (temp % 2 + '0');
         }
-        if(flag==1){
-            System.arraycopy(ans,0,ans,1,maxLen);
+        if (carry > 0) {
+            ans[maxLen] = (char) (carry + '0');
+            ansLen = maxLen + 1;
         }
-        return String.valueOf(ans, 0, maxLen + flag);
+        StringBuilder stringBuilder = new StringBuilder(new String(ans, 0, ansLen));
+        return stringBuilder.reverse().toString();
     }
 
-    char add(char a, char b, Integer flag) {
-        int ans = 0;
-        if (a + b - '0' * 2 + flag >= 2) {
-            ans = a + b - '0' * 2 + flag - 2;
-            flag = 1;
-        }else{
-            ans = a + b - '0' * 2 + flag;
-            flag = 0;
-        }
-        return (char)(ans+'0');
+    public static void main(String[] args) {
+        LeetCode67 leetCode67 = new LeetCode67();
+        System.out.println(leetCode67.addBinary("11", "1"));
     }
-
 }

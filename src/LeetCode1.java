@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 public class LeetCode1 {
 
     public int[] twoSum(int[] nums, int target) {
@@ -19,13 +21,9 @@ public class LeetCode1 {
     }
 
     public static void main(String[] args) {
-        LeetCode1 leetCode1 = new LeetCode1();
 
-        int[] nums = new int[]{3,2,4};
-        int[] ints = leetCode1.twoSum(nums, 6);
-        for (int anInt : ints) {
-            System.out.println(anInt);
-        }
+        int[] arr = new int[]{1,3,5,7,9};
+        System.out.println(Arrays.binarySearch(arr,8));
     }
 
 }

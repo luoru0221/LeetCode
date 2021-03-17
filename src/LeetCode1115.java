@@ -36,20 +36,21 @@ public class LeetCode1115 {
             }
         }
     }
-}
+    class FooBar {
+        static final int n = 100;
 
-class FooBar {
-    static final int n = 100;
+        public void foo() {
+            for (int i = 0; i < n; i++) {
+                System.out.println("foo");
+            }
+        }
 
-    public void foo() {
-        for (int i = 0; i < n; i++) {
-            System.out.println("foo");
+        public void bar() {
+            for (int i = 0; i < n; i++) {
+                System.out.println("bar");
+            }
         }
     }
-
-    public void bar() {
-        for (int i = 0; i < n; i++) {
-            System.out.println("bar");
-        }
-    }
 }
+
+

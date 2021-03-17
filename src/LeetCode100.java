@@ -12,15 +12,16 @@ public class LeetCode100 {
             }
         }else return p == null && q == null;
     }
-}
+    class TreeNode {
+        int val;
+        TreeNode left;
+        TreeNode right;
 
-class TreeNode {
-    int val;
-    TreeNode left;
-    TreeNode right;
-
-    TreeNode(int val) {
-        this.val = val;
+        TreeNode(int val) {
+            this.val = val;
+        }
     }
+
 }
+
 

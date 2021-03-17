@@ -3,7 +3,7 @@ import java.util.List;
 
 public class LeetCode144 {
 
-    public List<Integer> preorderTraversal(TreeNode root) {
+/*    public List<Integer> preorderTraversal(TreeNode root) {
         List<Integer> result = new ArrayList<>();
         order(root,result);
         return result;
@@ -16,5 +16,5 @@ public class LeetCode144 {
         result.add(root.val);
         order(root.left,result);
         order(root.right,result);
-    }
+    }*/
 }

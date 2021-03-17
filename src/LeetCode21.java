@@ -48,16 +48,15 @@ public class LeetCode21 {
 
         return ansHead;
     }
-}
+    class ListNode {
+        int val;
+        ListNode next;
 
-class ListNode {
-    int val;
-    ListNode next;
+        ListNode() {
+        }
 
-    ListNode() {
-    }
-
-    ListNode(int x) {
-        val = x;
+        ListNode(int x) {
+            val = x;
+        }
     }
 }

@@ -1,19 +1,37 @@
 import java.util.ArrayList;
-import java.util.LinkedList;
 import java.util.List;
-import java.util.Queue;
 
 public class LeetCode102 {
 
+    List<List<Integer>> list = new ArrayList<List<Integer>>();
+
     public List<List<Integer>> levelOrder(TreeNode root) {
-        List<List<Integer>> ans = new ArrayList<>();
-        Queue<TreeNode> queue = new LinkedList<>();
-        queue.add(root);
+        funtion(root, 0);
+        return list;
+    }
 
-        while(!queue.isEmpty()){
-
+    public void funtion(TreeNode root, int dep) {
+        if (root == null) {
+            return;
         }
+        if (list.size() <= dep) {
+            List<Integer> temp = new ArrayList<Integer>();
+            temp.add(root.val);
+            list.add(temp);
+        } else {
+            list.get(dep).add(root.val);
+        }
+        funtion(root.left, dep + 1);
+        funtion(root.right, dep + 1);
+    }
 
-        return ans;
+    public class TreeNode {
+        int val;
+        TreeNode left;
+        TreeNode right;
+
+        TreeNode(int x) {
+            val = x;
+        }
     }
 }

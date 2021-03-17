@@ -1,6 +1,6 @@
 public class LeetCode2 {
 
-    public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
+/*    public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         int carry = 0;
         ListNode list = new ListNode(0);
         ListNode sum = list;
@@ -29,5 +29,5 @@ public class LeetCode2 {
             list.next = new ListNode(carry);
         }
         return sum.next;
-    }
+    }*/
 }

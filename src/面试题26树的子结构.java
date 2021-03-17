@@ -1,6 +1,6 @@
 public class 面试题26树的子结构 {
 
-    public boolean isSubStructure(TreeNode A, TreeNode B) {
+/*    public boolean isSubStructure(TreeNode A, TreeNode B) {
         if (A == null && B == null) {
             return true;
         }
@@ -27,5 +27,5 @@ public class 面试题26树的子结构 {
             return false;
         }
         return A.val == B.val && isEquals(A.left, B.left) && isEquals(A.right, B.right);
-    }
+    }*/
 }

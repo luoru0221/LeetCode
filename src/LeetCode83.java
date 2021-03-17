@@ -1,7 +1,7 @@
 import java.util.HashSet;
 
 public class LeetCode83 {
-    public ListNode deleteDuplicates(ListNode head) {
+/*    public ListNode deleteDuplicates(ListNode head) {
         HashSet<Integer> set = new HashSet<>();
         ListNode point;
         ListNode prev = null;
@@ -14,5 +14,5 @@ public class LeetCode83 {
             }
         }
         return head;
-    }
+    }*/
 }

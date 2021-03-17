@@ -1,6 +1,6 @@
 public class LeetCode141 {
 
-    public boolean hasCycle(ListNode head) {
+/*    public boolean hasCycle(ListNode head) {
         ListNode fast = new ListNode();
         ListNode slow = new ListNode();
         fast.next = head;
@@ -14,5 +14,5 @@ public class LeetCode141 {
             }
         }
         return false;
-    }
+    }*/
 }

@@ -11,7 +11,6 @@ public class LeetCode54 {
         }
         int row = matrix[0].length;  //矩阵的列数
 
-        //记录矩阵四条边的位置
         int up = 0;
         int down = line - 1;
         int left = 0;

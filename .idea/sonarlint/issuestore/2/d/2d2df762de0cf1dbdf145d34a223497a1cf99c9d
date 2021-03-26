@@ -1,0 +1,10 @@
+
+u	java:S135&"YReduce the total number of break and continue statements in this loop to use at most one.(Ä‘’ç8¨ª¯Òñ.
+z	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.( Ììëÿÿÿÿÿ8í°‰Òñ.
+K
+java:S1121".Extract the assignment out of this expression.(Á¤Ò£8àˆòÑñ.
+u	java:S1358"YReduce the total number of break and continue statements in this loop to use at most one.(Ä‘’ç8“‘Òñ.
+K
+java:S1121'".Extract the assignment out of this expression.(Á¤Ò£8¨ª¯Òñ.
+K
+java:S11219".Extract the assignment out of this expression.(Á¤Ò£8ÉÆôÑñ.
